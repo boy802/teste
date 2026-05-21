@@ -120,8 +120,5 @@ The API uses region-specific JSON files to manage guest accounts.
 ```http
 GET /like?uid=1234567890
 ```
-## 📜 Credits
 
-This project was created by [Harly](https://github.com/rain-old).  
-Feel free to check out his GitHub profile for more projects and contributions.
 
