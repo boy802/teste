@@ -1,0 +1,15 @@
+Flask[async]
+requests
+aiohttp
+googleapis-common-protos
+pycryptodome
+protobuf==6.30.0
+Werkzeug
+cachetools
+waitress
+python-dotenv
+gunicorn
+httpx==0.27.2
+pydantic==2.9.2
+uvicorn[standard]==0.30.6
+fastapi==0.115.0
